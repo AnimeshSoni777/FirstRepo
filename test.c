@@ -72,7 +72,7 @@
     scanf("%d",&h);
 
 int x,y,z,u;
-    y=b+d+f+h;
+    y=b+d+f+h; 
     x=a+c+e+g;
     z=x*0.1;
     u=x-z;
