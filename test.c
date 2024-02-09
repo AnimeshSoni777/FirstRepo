@@ -51,7 +51,7 @@
 }*/
 
 //                 #4 enetr prize and quantity if quantity is grater than 1000 give 10% discount on amount.
-/* int main() {
+ int main() {
     
     int a,b,c,d,e,f,g,h;
     printf("enter amount: ");
@@ -83,4 +83,4 @@ int x,y,z,u;
     }
     
     return 0;
-}*/
+}
